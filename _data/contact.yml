@@ -1,0 +1,10 @@
+location:
+  address: 32b Lakeview Shopping Centre, Patterson Lakes VIC 3197
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12564.511013399982!2d145.12757180781253!3d-38.06740579999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad60d85bf5e137b%3A0xa0ce6add2684d4ea!2sY&#39;hello%20Bean%20Coffee%20Bar!5e0!3m2!1sen!2sau!4v1657616348272!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/yhellobean
+  - platform: email
+    link: mailto:hello@yhello.com.au
